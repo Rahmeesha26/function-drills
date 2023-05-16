@@ -9,20 +9,31 @@
 // Palidrome
 ///////////////////////////////
 
-const checkPalindrome = {}
-if ("Radar"!== true){
-          console.log(true);
-} else {
-          console.log(false)
-}
+// const checkPalindrome = {}
+// if ("Radar"!== true){
+//           console.log(true);
+// } else {
+//           console.log(false)
+// }
 
-const checkPalindrome2 = {}
-if ("Grey" <= false){
-          console.log(false)
-} else {
-          console.log(true)
-}
-
-///////////////////////////////////////
+// const checkPalindrome2 = {}
+// if ("Grey" <= false){
+//           console.log(false)
+// } else {
+//           console.log(true)
+// }
 
 ///////////////////////////////////////
+// Sum Array
+///////////////////////////////////////
+// const sumArray = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+// for (let sum = 0; sum <+ 10; sum++){
+//           console.log()
+// }
+
+///////////////////////////////////////
+// Prime Numbers
+///////////////////////////////////////
+
+
