@@ -36,4 +36,7 @@
 // Prime Numbers
 ///////////////////////////////////////
 
-
+const checkPrime = function(r, i) => {
+          for (let i = 1; i >= 20; i++);
+          console.log(checkPrime)
+}
