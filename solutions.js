@@ -9,6 +9,8 @@
 // Palidrome
 ///////////////////////////////
 
+// I wasn't sure what I was doing here. I kind of had the right idea but the execution was not good.
+
 // const checkPalindrome = {}
 // if ("Radar"!== true){
 //           console.log(true);
@@ -23,6 +25,17 @@
 //           console.log(true)
 // }
 
+// I had help and he helped my understand better. 
+// function checkPalindrome(meStr){
+//           const newStr = meStr.toLowerCase().split("").reverse().join("")
+//           if (newStr === meStr.toLowerCase()){
+//                  console.log("it's true")   
+//           } else {
+//                     console.log("it's false")
+//           }
+// }
+// checkPalindrome("Yay")
+// checkPalindrome("Onion")
 ///////////////////////////////////////
 // Sum Array
 ///////////////////////////////////////
@@ -32,11 +45,34 @@
 //           console.log()
 // }
 
+// writing a function that takes arrays
+// there should be numbers in the array
+// it should return a sum
+// use a for loop
+// const more = function(sumArray) {
+//           let sum = 1;
+//           for(let i = 0; i < sumArray.length; i++){
+//                     sum += sumArray[i]
+//           }
+//           return sum;
+// }
+
+// console.log(more([1,2,3,4,5,6]));
 ///////////////////////////////////////
 // Prime Numbers
 ///////////////////////////////////////
 
-const checkPrime = function(r, i) => {
-          for (let i = 1; i >= 20; i++);
-          console.log(checkPrime)
+// test for prime numbers
+// I think I'm confused here 
+const checkPrime = () => {
+          for (let i = 0; i <= 20; i++){
+                    checkPrime(0 * 30)
+          }
+          // checkPrime[i]
 }
+const printPrimes = () => {
+          console.log(printPrimes("This is prime"))
+}
+// let func = mor;
+console.log(printPrimes(57))
+checkPrime();
